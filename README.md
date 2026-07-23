@@ -2,4 +2,4 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=kajikaji5678&theme=tokyonight)](https://git.io/streak-stats)
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kajikaji5678&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
-[![trophy](https://github-profile-trophy.vercel.app/?username=kajikaji5678&theme=tokyonight)](...)
+
